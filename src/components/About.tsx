@@ -111,7 +111,7 @@ export default function About() {
               </h3>
               <div className="space-y-4 text-slate-400 leading-relaxed">
                 <p>
-                  I'm <span className="text-white font-medium">Surla Ram Chandra Murthy</span>, a first-year B.Tech student
+                  I'm <span className="text-white font-medium">Surla Ram Chandra Murthy</span>, a second-year B.Tech student
                   specializing in <span className="text-cyan-400">Artificial Intelligence and Data Science</span> at Vignan
                   Institute of Information Technology, Visakhapatnam.
                 </p>
